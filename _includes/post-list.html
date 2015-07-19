@@ -1,9 +1,12 @@
 <ul id="post-list">
     {% for post in paginator.posts %}
-        <li>
-            <a href='{{ post.url }}'><aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
-            <a href='{{ post.url }}'>{{ post.title }} <h2>{{ post.description }}</h2></a>
-        </li>
+        <li><article class="post">
+            <header>
+              <a href='{{ post.url }}'><h1>{{ post.title }}</h1></a>
+              <a href='{{ post.url }}'><h2 class="headline">{{ post.date | date:"%B %-d, %Y" }}</h2></a>
+            </header>
+            {{post.content}}
+        </article></li>
     {% endfor %}
 </ul>
 
