@@ -1,0 +1,37 @@
+name: Rick Steele
+description: "Thoughts on UX, software, and whatever else from the world's no.1 Drake fan"
+meta_description: "Thoughts on UX, software, and whatever else from the world's no.1 Drake fan"
+
+aboutPage: false
+
+markdown: redcarpet
+highlighter: pygments
+
+port: 6660
+
+paginate: 20
+baseurl: /
+domain_name: 'http://livemethod.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://livemethod.github.io'
+author:         'Rick Steele'
+authorTwitter:  'PatrickMakes'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
