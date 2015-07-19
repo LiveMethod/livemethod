@@ -5,6 +5,10 @@ meta_description: "Thoughts on UX, software, and whatever else from the world's 
 aboutPage: false
 
 markdown: redcarpet
+
+redcarpet:
+  extensions: ["strikethrough"]
+
 highlighter: pygments
 
 port: 6660

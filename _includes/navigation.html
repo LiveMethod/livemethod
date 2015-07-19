@@ -1,7 +1,6 @@
 <nav class="main-nav">
-    {% if page.url != "/index.html" %}
-        <a href='{{ site.baseurl }}{{ page.about }}'> <span class="arrow">←</span> Home </a>
-    {% endif %}
 
-    <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+    {% if page.url != "/index.html" %}
+        <!-- <a href='/'class="profile"><h1>{{ site.author }}</h1></a> -->
+    {% endif %}
 </nav>

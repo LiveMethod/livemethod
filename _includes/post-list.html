@@ -3,7 +3,7 @@
         <li><article class="post">
             <header>
               <a href='{{ post.url }}'><h1>{{ post.title }}</h1></a>
-              <a href='{{ post.url }}'><h2 class="headline">{{ post.date | date:"%B %-d, %Y" }}</h2></a>
+              <h2 class="headline">{{ post.date | date:"%B %-d, %Y" }}</h2>
             </header>
             {{post.content}}
         </article></li>
