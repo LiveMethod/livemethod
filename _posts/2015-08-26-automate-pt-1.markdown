@@ -1,6 +1,6 @@
 ---
 title:  "Let's Automate! Pt. 1"
-date:   2015-07-19 10:18:00
+date:   2015-08-26 17:40:00
 ---
 
 Let's Automate!
