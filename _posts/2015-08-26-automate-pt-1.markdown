@@ -5,11 +5,11 @@ date:   2015-08-26 17:40:00
 
 I just got two Particle Photon dev boards in the mail.
 
-![Particle Photons](//localhost:6660/assets/images/automation/photon-unboxing.jpg)
+![Particle Photons]({{site-url}}/assets/images/automation/photon-unboxing.jpg)
 
 Let's see if I can get them to replace my janky old Arduino setup, which not only involves hard wires the whole way, but also includes a full sized tower PC running 24/7. Good riddance to this piece:
 
-![Arduino Setup](//localhost:6660/assets/images/automation/old-arduino.jpg)
+![Arduino Setup]({{site-url}}/assets/images/automation/old-arduino.jpg)
 
 P.S. yes those are nails attaching the microcontroller and relay.
 
@@ -21,11 +21,11 @@ __5:45__ Particle's board only supports wireless b and g, so I had to switch to 
 
 __5:59__ Bad news: Past Rick used industrial strength double sided tape to attach a $2 breadboard to a piece of pallet wood, and the whole thing ripped in half when I took it off. Good news: I put every single piece back together. Gonna take more than that to stop the IoT train. This calls for a beer.
 
-![Fuck](//localhost:6660/assets/images/automation/breadboard-broken.jpg)
+![Fuck]({{site-url}}/assets/images/automation/breadboard-broken.jpg)
 
 __6:09__ Forked the "[blink LED over web](https://docs.particle.io/guide/getting-started/examples/photon/#control-leds-over-the-39-net)" code and accompanying html file. Flashing to the board now. We'll see...
 
-![Lit Photon](//localhost:6660/assets/images/automation/photon-lit.jpg)
+![Lit Photon]({{site-url}}/assets/images/automation/photon-lit.jpg)
 
 __6:11__ It's restarted twice now... still connecting to the internet... uhoh.
 
@@ -40,7 +40,7 @@ __6:21__ Pins connected. Tested. Power is go, but pin 0 doesn't seem to be doing
 
 __6:25__ Took it apart and put it back together. It works now. These things happen. Probably had some wires switched, since I only had red wires when I soldered this thing.
 
-![Relay Connected](//localhost:6660/assets/images/automation/relay-connected.jpg)
+![Relay Connected]({{site-url}}/assets/images/automation/relay-connected.jpg)
 
 __6:33__ I'm searching everywhere, but no light bulbs! I'm about to run downstairs to the liquor store and see if they have light bulbs. I wanna hit this one hour mark!
 
