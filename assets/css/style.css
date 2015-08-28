@@ -391,12 +391,6 @@ Post List
 	border-top: 1px solid #eee;
 }
 
-#post-list a {
-	color: #333;
-	display: block;
-	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
-}
-
 #post-list .dates {
 	float: right;
 	position: relative;
