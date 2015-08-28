@@ -29,8 +29,7 @@ __6:09__ Forked the "[blink LED over web](https://docs.particle.io/guide/getting
 
 __6:11__ It's restarted twice now... still connecting to the internet... uhoh.
 
-<!-- ![Success!](https://gfycat.com/DearestOrneryCatbird) -->
-<iframe src="http://gfycat.com/ifr/DearestOrneryCatbird" frameborder="0" scrolling="no" width="540" height="540" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe src="//gfycat.com/ifr/DearestOrneryCatbird" frameborder="0" scrolling="no" width="540" height="540" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 __6:13__ Success! Time to break out the relay and see if we can just bolt it directly on. Where's that pin sheet.....
 
@@ -44,7 +43,7 @@ __6:25__ Took it apart and put it back together. It works now. These things happ
 
 __6:33__ I'm searching everywhere, but no light bulbs! I'm about to run downstairs to the liquor store and see if they have light bulbs. I wanna hit this one hour mark!
 
-<iframe src="http://gfycat.com/ifr/ImmaculatePreciousAmericanwigeon" frameborder="0" scrolling="no" width="540" height="540" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+<iframe src="//gfycat.com/ifr/ImmaculatePreciousAmericanwigeon" frameborder="0" scrolling="no" width="540" height="540" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
 __6:37__ DONE!! I found a bulb in an old moving box. Just in time. Now for the dweet part.
 
